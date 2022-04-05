@@ -10,23 +10,3 @@
 <h3>
   Description: This exercise is about JSON data manipulation. In the exercise we will extract the salary and name data. There are two search criteria. Find the top money makers and filter by the salary amount. Once we get the data, we will display the obtained data on a web page. Additionally, you can modify the search criteria on the webpage.
 </h3>
-<br>
-<h3>
-  Installation: N/A
-</h3>
-<br>
-<h3>
-  Usage: N/A
-</h3>
-<br>
-<h3>
-  Support: N/A
-</h3>
-<br>
-<h3>
-  Roadmap: N/A
-</h3>
-<br>
-<h3>
-  License: N/A
-</h3>
